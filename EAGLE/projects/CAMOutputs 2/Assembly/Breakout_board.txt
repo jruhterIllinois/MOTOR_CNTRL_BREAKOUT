@@ -1,0 +1,8 @@
+Partlist exported from /Users/jruhter/Documents/EAGLE/projects/Breakout_board.sch at 2/26/26 11:00 PM
+
+Qty Value          Device                            Package  Parts  Description                                        LABEL MF MPN OC_FARNELL OC_NEWARK POPULARITY PROD_ID   VALUE
+2                  MPT2                              2POL254  X2, X3 PHOENIX CONNECTOR                                               unknown    unknown   5                         
+1   100uF          100UF-POLAR-EIA7343-16V-10%(TANT) EIA7343  C1     100µF polarized capacitors                                                                      CAP-08702 100uF
+1   2133-DRV8825   2133-DRV8825                      DRV8825  S1     DRV8825 Stepper Motor Driver Carrier, High Current                                                             
+1   B6B-PH-K       B6B-PH-K                          B6B-PH-K P1     HEADER                                                                                                         
+1   NANO_FOOTPRINT NANO_FOOTPRINT                    NANO     J1     Generic Nano Footprint                                                                                         
