@@ -1,0 +1,11 @@
+[Unit]
+Description=Scanner Service
+Requires=saned.socket
+
+[Service]
+ExecStart=/usr/local/sbin/saned
+User=saned
+Group=saned
+
+[Install]
+Also=saned.socket
